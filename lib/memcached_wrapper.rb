@@ -1,4 +1,4 @@
-# require 'memcache'
+require 'memcache'
 # require 'memcached'
 
 #typically MemCache/Memcached can be used via the following in rails/init.rb:
